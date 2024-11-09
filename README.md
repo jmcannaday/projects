@@ -1,99 +1,53 @@
-# Applicant Summary
+# Jon Cannaday
+**Email:** jcannaday0319@gmail.com  •  **Phone:** (972) 979-8043
 
-## Skills
-- **SSMS**
-- **Data Engineering**
-- **Data Pipelines**
-- **Python Scripting**
-- **Microsoft Office**
-- **Data Visualization**
-- **Machine Learning**
-- **Data Analysis**
-- **Statistical Modeling**
+## SUMMARY
+Accomplished business intelligence analyst approaching a decade working with statistical modeling, data analytics, and visualization development. Turnkey project scripting in Python, R, SQL, and M-Code. Fluent in software design reporting and interactive dashboards using Power BI, Python, and Excel.
 
-Highly skilled Business Intelligence Analyst with a strong background in mathematics, finance, and data science, with over 5 years of experience in database management, data analysis, mathematical modeling, and business process automation.
+## EDUCATION
 
-Proven and certified expertise in Power Query, SQL, Python, R, data mining, and data visualization tools like Power BI, Python, and Excel. Demonstrated strengths in A/B testing, ensuring data integrity, and developing visualizations that support decision-making. Known for automating and streamlining complex processes, creating repeatable models, and problem-solving.
+**Bellevue University** - Bellevue, NE  
+*Nov 2024*  
+Master of Science, Data Science, GPA 4.0  
+- Coursework: Statistics for Data Science, Data Mining, Predictive Analytics, Data Presentation and Visualization, Big Data, Applied Data Science.
 
-I excel at sharing knowledge, managing multiple projects simultaneously, and applying robust analytical skills to drive data-informed strategies for organizational growth.
+**Dallas Baptist University** - Dallas, TX  
+*Dec 2018*  
+Bachelor of Science, Mathematics, GPA 3.47  
+- Coursework: Differential Equations, Physics, Calculus 1, Calculus 2, Calculus 3, Abstract Algebra, Linear Algebra, Statistics.
 
----
+## PROFESSIONAL EXPERIENCE
 
-## Career Accomplishments
-- **Predictive Machine Learning Models**: Engineered machine learning models to forecast product life cycles, leveraging regression analysis to predict attendance patterns, labor allocation, and inventory depletion. Implemented A/B testing methodologies to evaluate the impact of strategic decisions.
-- **Automated Loan Processing System**: Designed a system that increased loan processing capacity from 100 to 17,600 loans per month, reducing processing time and eliminating delay fees, handling $23 million worth of transactions per batch.
-- **Data Pipeline Enhancement**: Reconstructed a data pipeline, ensuring accurate financial data (such as rate changes), improving the company’s ability to perform precise financial planning.
-  
----
+**Cinemark** - Plano, TX  
+*Business Intelligence Analyst*  
+*Jan 2023 – Present*  
+- Developed decision tree models that achieved an 86% recall rate in identifying refunded transactions, leading to identification of high-risk customers and lowering refunds by $1 million per year.
+- Built an Apriori model to analyze over 100,000 product combinations, optimizing targeted promotions and boosting product sales by $200,000 over the past month.
+- Conducted statistical A/B testing on q-lines, price change effects, and seat selection, enhancing visibility and affirming leadership decisions.
+- Engineered proximity-based data on 400+ theater locations, informing strategic placement decisions and increasing localized marketing.
+- Designed and implemented full-stack Power BI solutions, centralizing reporting and enhancing data access for cross-departmental decision-making.
 
-## Technical Proficiencies
-- **Languages**: Python, SQL, Excel, R, VBA, M-Code, DAX, Alteryx, Jupyter Notebooks, Power Query.
-- **Software/Platforms**: Azure Data Warehouse, Power BI, Microsoft SQL Server, Ultra Staff Edge, POS, Inventory Management, Access DB, SAP, Office 365, Microsoft Visio, SharePoint, OneDrive, SSMS, Workday PowerPoint.
+**Gateway Mortgage Bank** - Dallas, TX  
+*Business Analyst*  
+*Jan 2019 – Dec 2022*  
+- Led system integration projects that consolidated corporate procedures, improving operational efficiency by 40%.
+- Streamlined electronic mortgage delivery processes, cutting shipping costs by 10%.
+- Developed a Margin Differential tool that eliminated processing error.
+- Automated departmental tasks, reducing manual data retrieval efforts and increasing workflow.
 
----
+**Dallas Baptist University** - Dallas, TX  
+*Assistant Manager*  
+*Jan 2016 – Dec 2018*  
+- Managed and integrated a 1000+ item inventory, optimizing categorization and recording processes within the institutional database.
+- Created Gantt timelines that facilitated on-schedule project completion for campus construction.
+- Supervised contractors, ensuring adherence to project timelines and quality standards.
 
-## Work History
+## SKILLS
 
-### **Cinemark ⎯ Dallas, Texas**  
-*Business Intelligence Analyst* (01/2023 - Present)
-- Managed over 25 domestic and international Power BI reports, developing data-driven visualizations for financial and operational analysis.
-- Developed and maintained Power BI models and dashboards to monitor financial and operational performance metrics.
-- Conducted statistical analysis and A/B testing to optimize pricing strategies.
-- Built machine learning models to analyze product life cycles and forecast attendance, labor, and inventory.
-- Collaborated with cross-functional teams to resolve data discrepancies and ensure data accuracy.
+**Programming languages:** Python, SQL, R, Excel, M-Code, DAX, C, Pandas, Matplotlib, GUI, Seaborn, Scikit-learn, NumPy, SciPy.  
+**Computer software/frameworks:** Jupyter Notebooks, Git, Azure Data Warehouse, SSMS, SPSS, NiFi, HDFS, PySpark, Alteryx, Workday, Microsoft Excel, Power Query, Microsoft PowerPoint, Microsoft Word, Power BI, SharePoint.  
+**Languages:** English, Spanish.  
 
----
+## CERTIFICATES
 
-### **RiseITS ⎯ Plano, Texas**  
-*(Contract) Business Intelligence Analyst* (01/2022 - 01/2023)
-- Automated payroll processes through scripting, integrating with development operations for improved workflow efficiency.
-- Mapped enterprise processes and conducted data mining to streamline payroll pipelines.
-
----
-
-### **Gateway Mortgage Bank ⎯ Dallas, Texas**  
-*Business Analyst* (08/2019 - 01/2022)
-- Spearheaded system integrations and streamlined data flows to reduce loan processing time from 5 days to 1 hour, allowing the handling of loans worth $23 million per batch.
-- Developed Margin Differential tools for mortgage pricing and optimized enterprise procedures.
-- Provided data modeling and auditing for accurate financial reporting.
-
----
-
-### **Dallas Baptist University ⎯ Dallas, Texas**  
-*Assistant Manager* (01/2016 - 01/2019)
-- Managed project timelines and contractor oversight, reversing budget deficits through optimized processes.
-- Handled inventory management and negotiated departmental telecommunications plans.
-
----
-
-## Education and Certifications
-
-### **Education**
-- **Master of Science (M.S.) in Data Science**  
-  *Bellevue University* – Bellevue, NE  
-  4.0 GPA
-- **Bachelor of Science (B.S.) in Mathematics**  
-  *Dallas Baptist University* – Dallas, TX  
-  Minor in Finance  
-  3.46 GPA
-
----
-
-### **Certifications**
-- Six Sigma Yellow Belt – Cinemark
-- Statistics Foundations 1-4 – LinkedIn Learning
-- Advanced SQL – LinkedIn Learning
-- Advanced Power BI – LinkedIn Learning
-- Advanced Pandas – LinkedIn Learning
-- Numpy – LinkedIn Learning
-- Python GUI – LinkedIn Learning
-- Data Science Methodology – Coursera
-- Databases and SQL for Data Science with Python – Coursera
-- Introduction to Data Analysis using Microsoft Excel – Coursera
-- Tools for Data Science – Coursera
-
----
-
-## Languages
-- **English**: Native
-- **Spanish**: Beginner
+Academic Research Foundations: Quantitative, Power BI Dataflows Essential Training, Learning Excel: Data Analysis, LinkedIn AI Academy AI-100: 1 Demystifying AI, Machine Learning with Logistic Regression in Excel, R, and Power BI, Python Projects, Applied Machine Learning: Algorithms, Excel: Statistical Process Control, Learning Minitab, Master Data Engineering, Microsoft Power BI Data Analyst Associate (PL-300) Cert Prep by Microsoft Press, Programming Foundations: Version Control with Git (2020), Advanced Predictive Modeling: Mastering Ensembles and Metamodeling, Applied Machine Learning: Feature Engineering, Data Science Foundations: Data Assessment for Predictive Modeling, Data Science Foundations: Data Mining in Python, Data Science Foundations: Data Mining in R, Machine Learning and AI Foundations: Prediction, Causation, and Statistical Inference, Power BI Essential Training, Predictive Analytics Essential Training: Data Mining, Predictive Analytics Essential Training: Estimating and Ensuring ROI, Regression Analysis Fundamentals, SPSS Statistics Essential Training, CompTIA Data+ (DA0-001) Cert Prep: 1 Data Concepts and Environments, CompTIA Data+ (DA0-001) Cert Prep: 2 Data Mining, CompTIA Data+ (DA0-001) Cert Prep: 3 Data Analysis, CompTIA Data+ (DA0-001) Cert Prep: 4 Visualization, CompTIA Data+ (DA0-001) Cert Prep: 5 Data Governance, Quality, and Controls, Complete Guide to Power BI for Data Analysts by Microsoft Press, Machine Learning & AI Foundations: Linear Regression, Machine Learning Foundations: Calculus, Machine Learning and AI Foundations: Classification Modeling, Machine Learning and AI Foundations: Clustering and Association, Machine Learning and AI Foundations: Decision Trees with KNIME, Machine Learning and AI Foundations: Decision Trees with SPSS, Machine Learning and AI: Advanced Decision Trees with SPSS, Python Statistics Essential Training, Machine Learning Foundations: Linear Algebra, Power BI for Beginners: Analysis of Data (Beta), Essential Power BI (Beta), Machine Learning Foundations: Probability, Power BI Data Analyst Associate (PL-300) Cert Prep: Cleaning, Transforming, and Loading Data in Power BI, Power BI Data Analyst Associate (PL-300) Cert Prep: Designing and Developing a Power BI Data Model, Power BI Data Analyst Associate (PL-300) Cert Prep: Managing Datasets in Power BI, Prepare for the Power BI Data Analyst Associate (PL-300) Certification, Advanced Pandas, NumPy Essential Training: 1 Foundations of NumPy, NumPy Essential Training: 2 MatPlotlib and Linear Algebra Capabilities, Python GUI Development with Tkinter, pandas Essential Training, Advanced Power BI: DAX Language, Formulas, and Calculations, Excel Statistics Essential Training: 1, Excel Statistics Essential Training: 2, Excel: Mastering Pivot Table Dashboards and Reports, Level Up: Advanced SQL, Statistical Analysis with Wolfram Language, Statistics Foundations 1: The Basics, Statistics Foundations 2: Probability, Statistics Foundations 3: Using Data Sets, Statistics Foundations 4: Advanced Topics, Yellow Belt Six Sigma, Introduction to Data Science Specialization, BLS, American Heart Association, Data Science Methodology, Databases and SQL for Data Science with Python, Introduction to Data Analysis using Microsoft Excel, SQL: A Practical Introduction for Querying Databases, Tools for Data Science.
