@@ -1,8 +1,12 @@
 # Jon Cannaday
 **Email:** jcannaday0319@gmail.com  •  **Phone:** (972) 979-8043
+<br>
+<div style="width: 100%; border-bottom: 1px solid black;"></div>
 
 ## SUMMARY
 Accomplished business intelligence analyst approaching a decade working with statistical modeling, data analytics, and visualization development. Turnkey project scripting in Python, R, SQL, and M-Code. Fluent in software design reporting and interactive dashboards using Power BI, Python, and Excel.
+<br>
+<div style="width: 100%; border-bottom: 1px solid black;"></div>
 
 ## EDUCATION
 
@@ -15,6 +19,8 @@ Master of Science, Data Science, GPA 4.0
 *Dec 2018*  
 Bachelor of Science, Mathematics, GPA 3.47  
 - Coursework: Differential Equations, Physics, Calculus 1, Calculus 2, Calculus 3, Abstract Algebra, Linear Algebra, Statistics.
+<br>
+<div style="width: 100%; border-bottom: 1px solid black;"></div>
 
 ## PROFESSIONAL EXPERIENCE
 
@@ -41,12 +47,16 @@ Bachelor of Science, Mathematics, GPA 3.47
 - Managed and integrated a 1000+ item inventory, optimizing categorization and recording processes within the institutional database.
 - Created Gantt timelines that facilitated on-schedule project completion for campus construction.
 - Supervised contractors, ensuring adherence to project timelines and quality standards.
+<br>
+<div style="width: 100%; border-bottom: 1px solid black;"></div>
 
 ## SKILLS
 
 **Programming languages:** Python, SQL, R, Excel, M-Code, DAX, C, Pandas, Matplotlib, GUI, Seaborn, Scikit-learn, NumPy, SciPy.  
 **Computer software/frameworks:** Jupyter Notebooks, Git, Azure Data Warehouse, SSMS, SPSS, NiFi, HDFS, PySpark, Alteryx, Workday, Microsoft Excel, Power Query, Microsoft PowerPoint, Microsoft Word, Power BI, SharePoint.  
 **Languages:** English, Spanish.  
+<br>
+<div style="width: 100%; border-bottom: 1px solid black;"></div>
 
 ## CERTIFICATES
 
