@@ -5,12 +5,14 @@
 ## SUMMARY
 <div style="width: 100%; border-bottom: 1px solid black;"></div>
 <br>
+
 Accomplished business intelligence analyst approaching a decade working with statistical modeling, data analytics, and visualization development. Turnkey project scripting in Python, R, SQL, and M-Code. Fluent in software design reporting and interactive dashboards using Power BI, Python, and Excel.
 
 
 ## EDUCATION
 <div style="width: 100%; border-bottom: 1px solid black;"></div>
 <br>
+
 **Bellevue University** - Bellevue, NE  
 *Nov 2024*  
 Master of Science, Data Science, GPA 4.0  
@@ -25,8 +27,9 @@ Bachelor of Science, Mathematics, GPA 3.47
 ## PROFESSIONAL EXPERIENCE
 <div style="width: 100%; border-bottom: 1px solid black;"></div>
 <br>
+
 **Cinemark** - Plano, TX  
-*Business Intelligence Analyst*  
+*Business Intelligence Analyst*
 *Jan 2023 – Present*  
 - Developed decision tree models that achieved an 86% recall rate in identifying refunded transactions, leading to identification of high-risk customers and lowering refunds by $1 million per year.
 - Built an Apriori model to analyze over 100,000 product combinations, optimizing targeted promotions and boosting product sales by $200,000 over the past month.
